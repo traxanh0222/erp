@@ -1,0 +1,49 @@
+erp.ubaseinternational.com
+fonts.googleapis.com
+fonts.gstatic.com
+cdn.shopify.com
+cdnjs.cloudflare.com
+code.jquery.com
+www.jsviews.com
+maxcdn.bootstrapcdn.com
+cdn.jsdelivr.net
+# Các dịch vụ Google chung
+google.com
+www.google.com
+accounts.google.com
+apis.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients6.google.com
+
+# Gmail
+mail.google.com
+smtp.gmail.com
+imap.gmail.com
+pop.gmail.com
+
+# Google Play Store
+play.google.com
+android.clients.google.com
+play.googleapis.com
+fcm.googleapis.com
+gvt1.com
+mtalk.google.com
+lh3.googleusercontent.com
+firebaseinstallations.googleapis.com
+
+# Google Fonts & static
+fonts.googleapis.com
+fonts.gstatic.com
+
+# Google Docs, Sheets, Drive
+docs.google.com
+sheets.google.com
+drive.google.com
+
+# Google APIs
+*.gstatic.com
+*.googleapis.com
+*.googleusercontent.com
