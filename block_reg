@@ -17,3 +17,9 @@
 /.*vietlott.*/$dnstype=A
 /.*xskt.*/$dnstype=A
 /.*sxmn.*/$dnstype=A
+/.*game.*/$dnstype=A
+/.*choigame.*/$dnstype=A
+/.*gamevui.*/$dnstype=A
+/.*games.*/$dnstype=A
+/.*minigame.*/$dnstype=A
+/.*playgame.*/$dnstype=A
